@@ -8,6 +8,11 @@
 
 - Update dependencies
 
+## 2.1.1
+
+- Update Dart SDK version requirement to 3.8.0
+- Update dependencies
+
 ## 2.1.0
 
 - Customized pubspec extracting (documented & undocumented top-level keys)
