@@ -1,12 +1,8 @@
 # Changelog
-## 2.1.0
 
-- Customized pubspec extracting (documented & undocumented top-level keys)
-- Fix export output file to not exist directory
+## 2.2.0
 
-## 2.0.8
-
-- Update dependencies
+- Add include-build-date option
 
 ## 2.1.1
 
